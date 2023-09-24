@@ -65,3 +65,16 @@ def StartGame(scene):
         print("    {{  } -:- { } }  ")
         print("    {_{ }`===`{  _}  ")
         print("    ((((\)     (/))))")
+
+    if(scene == "sick"):
+        print("           __    EEEK!")
+        print("      /  \   ~~|~~    ")
+        print("     (|00|)    |      ")
+        print("      (==)  --/       ")
+        print("    ___||___          ")
+        print("   / _ .. _ \         ")
+        print("  //  |  |  \\        ")
+        print(" //   |  |   \\       ")
+        print(" ||  / /\ \  ||       ") 
+        print("_|| _| || |_ ||_      ")
+        print("\|||___||___|||/      ")
